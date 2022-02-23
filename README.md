@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @h.Chaab
 - 👀 I’m interested in programming, machine learning, Algorithms
 - 🌱 I’m currently learning Deep learning
-- 💞 I’m looking to collaborate on c++ projects
+- 💞 I’m looking to collaborate on c++&python projects
 
 
 <!---
